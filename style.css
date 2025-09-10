@@ -1,0 +1,113 @@
+h1{
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	background-color: #FFF5F5;
+	height: 85px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div1 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div2 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 25px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div3 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div4 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 35px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div5 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 40px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div6 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 45px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div7 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#div8 {
+	border-style: groove;
+	border-width: 2px;
+	border-color: black;
+	border-radius: 5px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #FFF5F5;
+	position: relative;
+	top: 55px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
